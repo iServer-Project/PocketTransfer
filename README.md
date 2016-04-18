@@ -1,2 +1,2 @@
 # PocketTransfer
-Link servers together.
+The beta code &amp; most updated one.
